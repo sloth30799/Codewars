@@ -6,3 +6,5 @@ Tech Used: JavaScript
 
 # Optimizations
 I always try to optimize my code for efficiency and readability.
+
+# Lessons Learned:
