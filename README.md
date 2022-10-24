@@ -8,3 +8,4 @@ Tech Used: JavaScript
 I always try to optimize my code for efficiency and readability.
 
 # Lessons Learned:
+As I solve with problems, I become more comfortable with code and write better ones.
