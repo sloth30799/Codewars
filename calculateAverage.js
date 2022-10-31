@@ -12,4 +12,5 @@ function findAverage(array) {
       array = array.reduce((total, x) => total + x, 0)
       return array / length
     }
+    
   }
