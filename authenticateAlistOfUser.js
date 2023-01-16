@@ -19,5 +19,5 @@
 // You will always be given an array with at least 1 string to check.
 
 function authList(arr) {
-    return arr.every(x => /^(?=.*[a-z])(?=.*\d)[a-z\d]{6,10}$/.test(x));
-  }
+	return arr.every((x) => /^(?=.*[a-z])(?=.*\d)[a-z\d]{6,10}$/.test(x));
+}
