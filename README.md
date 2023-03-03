@@ -1,7 +1,7 @@
 # Codewars
 Daily coding challenge to improve my coding skills!! [Link](https://www.codewars.com/users/sloth30799)
 
-![Imgur](https://i.imgur.com/B9m2GyQ.jpg)
+![Imgur](https://i.imgur.com/YBGrdzh.jpg)
 
 # How It's Made:
 Tech Used: JavaScript
